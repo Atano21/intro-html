@@ -1,0 +1,29 @@
+.container{
+
+    width: 600px;
+
+    height: 400px;
+
+    background-color: blueviolet;
+
+    margin: 100px auto;
+
+    border: 2px solid black;
+
+    border-radius: 20px;
+
+}
+
+.flex-item{
+
+    width: 60px;
+
+    height: 60px;
+
+    background-color: orange;
+
+    border: 2px solid black;
+
+    border-radius: 20px;
+
+}
